@@ -31,7 +31,7 @@ It is designed for **automation, scripting, and fast execution** without a graph
 - **Label Paper**: 29mm × 90mm continuous label tape (DK-11201)
 - **Printer Drivers**:  
   Download and install the **Full Driver & Software Package** from Brother Support:  
-  https://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=lpql820nwbus&os=10013
+  https://support.brother.com/g/b/downloadtop.aspx?c=au&lang=en&prod=lpql820nwbeas
 
 After installation, confirm the printer appears in Windows as:
 
